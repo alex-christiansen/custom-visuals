@@ -6,3 +6,9 @@ visualization: {
   label: "Hello World"
   file: "visualizations/hello_world.js"
 }
+
+visualization: {
+  id: "filter-trigger-test"
+  label: "Filter Trigger Test"
+  file: "visualizations/hello_world.js"
+}
