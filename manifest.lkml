@@ -13,8 +13,8 @@ visualization: {
 #   file: "visualizations/trigger-filter-test-290841401.ts"
 # }
 
-# visualization: {
-#   id: "utils"
-#   label: "Utils"
-#   file: "visualizations/utils.ts"
-# }
+visualization: {
+  id: "utils"
+  label: "Utils"
+  file: "visualizations/hello_world.js"
+}
