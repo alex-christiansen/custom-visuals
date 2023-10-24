@@ -12,3 +12,9 @@ visualization: {
 #   label: "Filter Trigger Test"
 #   file: "visualizations/trigger-filter-test-290841401.ts"
 # }
+
+# visualization: {
+#   id: "utils"
+#   label: "Utils"
+#   file: "visualizations/utils.ts"
+# }
